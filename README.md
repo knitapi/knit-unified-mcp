@@ -17,7 +17,9 @@ The Knit MCP Server is a developer productivity tool designed to accelerate the 
   * Meetings, Calendar, & Communication
   * Electronic Signature & more.
 
-> 🔗 **[Click here](https://mcp.getknit.dev/knit-mcp/install) to install Knit MCP Server on your favorite IDE/CLI.**
+<a href="https://mcp.getknit.dev/knit-mcp/install" target="_blank" rel="noopener noreferrer">
+  🔗 <strong>Click here to install Knit MCP Server on your favorite IDE/CLI</strong>
+</a>
 
 ![](https://files.readme.io/7475cf03e8840dd345d2c7cd7492145390443741c30da656d86c307df32a9e99-knit-mcp-server-to-work-with-unified-apis.gif)
 
