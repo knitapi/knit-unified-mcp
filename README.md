@@ -2,9 +2,7 @@
 
 Knit's MCP Server helps developers build SaaS integrations in their favourite IDE/CLI leveraging Knit's Unified APIs and Syncs.
 
-<a href="https://mcp.getknit.dev/knit-mcp/install" target="_blank" rel="noopener noreferrer">
-  🔗 <strong>Click here to install Knit MCP Server on your favorite IDE/CLI</strong>
-</a>
+> 🔗 **[Click here](https://mcp.getknit.dev/knit-mcp/install) to install Knit MCP Server on your favorite IDE/CLI.**
 
 ![](https://files.readme.io/7475cf03e8840dd345d2c7cd7492145390443741c30da656d86c307df32a9e99-knit-mcp-server-to-work-with-unified-apis.gif)
 
@@ -22,5 +20,3 @@ The Knit MCP Server is a developer productivity tool designed to accelerate the 
   * Ticketing & Support
   * Meetings, Calendar, & Communication
   * Electronic Signature & more.
-
-> **Note**: The Knit MCP Server is currently focused on **dev-time velocity** (onboarding and code generation). It helps you *build* the integration code quickly by querying Knit's docs, rather than executing the Unified APIs directly as a proxy.
