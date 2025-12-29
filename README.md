@@ -22,3 +22,12 @@ The Knit MCP Server is a developer productivity tool designed to accelerate the 
   * Electronic Signature & more.
  
 https://mcp.sandbox.getknit.dev/knit-mcp/install
+
+<a
+  href="https://mcp.sandbox.getknit.dev/knit-mcp/install"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  🔗 Install Knit MCP Server on your favorite IDE/CLI
+</a>
+
